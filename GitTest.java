@@ -1,4 +1,4 @@
-//Thomas Chen
+//Thomas
 public class GitTest{
 
 	private String a;
